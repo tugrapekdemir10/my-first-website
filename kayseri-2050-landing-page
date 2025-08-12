@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kayseri 2050 Landing Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <nav>
+        <div class="container">
+            <a href="#" class="logo">Kayseri 2050</a>
+            <ul>
+                <li><a href="#">Hakkımızda</a></li>
+                <li><a href="#">Projeler</a></li>
+                <li><a href="#">İletişim</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <header class="hero-section">
+        <div class="container">
+            <div class="hero-content">
+                <h1>Kayseri'nin Geleceği: 2050 Vizyonu</h1>
+                <p>Şehrimizi daha yaşanabilir, daha yeşil ve daha teknolojik bir geleceğe taşıyoruz.</p>
+                <button class="cta-button">Projeleri Keşfet</button>
+            </div>
+            <div class="hero-image">
+                </div>
+        </div>
+    </header>
+
+</body>
+</html>
